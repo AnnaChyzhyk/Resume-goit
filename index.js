@@ -19,3 +19,10 @@ button.addEventListener('click', func);
 button2.addEventListener('click', () => { 
     console.log(value--);
 })
+
+let obj = {
+    name: 'Anna',
+    age: 50
+};
+
+obj.age
